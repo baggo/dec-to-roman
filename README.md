@@ -3,12 +3,14 @@
 
 ## Installation
 ```shell
-$ npm install dec-to-roman
+$ npm install seanc/dec-to-roman
 ```
 
 ## Usage
 ```javascript
-import dec-to-roman from 'dec-to-roman';
+import convert from 'dec-to-roman';
+
+convert(6) // 'VI'
 ```
 
 ## Credits
