@@ -1,0 +1,24 @@
+{
+  "name": "dec-to-roman",
+  "author": "Sean Wilson",
+  "version": "0.0.0",
+  "description": "Decimal to Roman Numerals",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanc/dec-to-roman"
+  },
+  "scripts": {
+    "test": "ava test"
+  },
+  "private": false,
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "eslint": "^2.8.0",
+    "eslint-config-google": "^0.5.0"
+  }
+}
