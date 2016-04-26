@@ -1,7 +1,7 @@
 {
   "name": "dec-to-roman",
   "author": "Sean Wilson",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Decimal to Roman Numerals",
   "main": "lib",
   "repository": {
